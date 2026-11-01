@@ -92,7 +92,7 @@ EWB PHISHING URL AWARENESS CHECKER
 Text checks only - URLs are never opened.
 =============================================
 
-Enter a sample URL (or type sq to quit): http://192.0.2.10/account
+Enter a sample URL (or type q to quit): http://192.0.2.10/account
 
 Result:
 - Uses an IP address instead of a familiar domain.
@@ -100,7 +100,6 @@ Result:
 
 REVIEW CAREFULLY: 2 warning sign(s) found.
 
-Never enter passwords from unexpected links.
 
 Enter a sample URL (or type q to quit): q
 
